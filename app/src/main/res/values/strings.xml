@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Acertar numeros</string>
+    <string name="cu_l_es_el_n_mero">¿Cuál es el número?</string>
+    <string name="n_mero">Número</string>
+    <string name="comprobar">COMPROBAR</string>
+    <string name="salir">SALIR</string>
+    <string name="generar_n_mero">GENERAR NÚMERO</string>
+</resources>
